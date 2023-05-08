@@ -1,5 +1,5 @@
 # tun-travel
 
-To run:
-npm install
+To run:<br>
+npm install<br>
 npm run dev
